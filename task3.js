@@ -1,3 +1,3 @@
-export function ageCalculator() {
+export function ageCalculator(ano,mes,dia) {
 
 }
